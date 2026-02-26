@@ -1,0 +1,82 @@
+# =========================
+# OS FILES
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# PYTHON
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testing / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.pytest_cache/
+.cache/
+
+# Type checking
+.mypy_cache/
+.pyre/
+.pytype/
+
+# =========================
+# JUPYTER NOTEBOOKS
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# GOOGLE COLAB
+# =========================
+/content/
+*.ipynb~
+
+# =========================
+# VS CODE
+# =========================
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# =========================
+# ENV / SECRETS
+# =========================
+.env.*
+*.env
+.envrc
+
+# =========================
+# LOGS
+# =========================
+*.log
+
+# =========================
+# TEMP FILES
+# =========================
+*.swp
+*.swo
