@@ -1,0 +1,6 @@
+ipykernel>=7.0
+pandas>=2.0
+openpyxl>=3.0
+scikit-learn>=1.0
+matplotlib>=3.5
+seaborn>=0.12
