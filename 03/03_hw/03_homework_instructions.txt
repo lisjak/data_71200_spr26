@@ -1,0 +1,15 @@
+Subject: Re: DATA71200 RegressionNotes & HW Assignment #3 Regression Models Redux
+ 
+Hi Everyone:
+
+Following up on today's in-class discussions, the HW#3 challenge is to build and contrast at least two multiple regression models that attempt to explain the variation in shopping behavior (Y = amount of a purchase ($$)) for each of two demographic groups, i.e., males v females.  To be clear, this challenge requires developing at least two competing regression models designed to explain as much variation in the Y variable—i.e., the purchase amount in dollars —as possible.  
+
+Once you have developed and tested your two competing models, fit them to the overall data set and present your evaluation of which of the two "fits best."  After you have worked through this first part of the analysis, then fit the same two competing models separately to the males and females in the dataset.  In this 2nd part of the analysis present your results and evidence-based conclusions of which prediction/explanation regression models appear to provide the best fit given the data. 
+
+Keep in mind that the dataset contains integer, ordinal, and categorical variables.  The latter two variable types may require numerical recoding before estimating correlations and fitting regression models. 
+
+Write up and summarize your analyses in a Word file and be sure to put your name on the report and number the pages, and send it via email by close of business EST on Wednesday (3/4/26). 
+
+This is a complex, challenging analysis.  If you have any questions or concerns about this assignment, or the attachments included in this email, please contact me via text or email. 
+
+p.s. The new book I mentioned in class is titled: Multivariate Statistics and Machine Learning: An Introduction to Applied Data Science Using R and Python by Daniel J. Denis and published by Routledge, 2026, ISBN: 9781032454283. The author has a particularly good treatment of regression modeling and extended methods. More generally, the book provides the statistical foundations for understanding and applying machine learning techniques. 
