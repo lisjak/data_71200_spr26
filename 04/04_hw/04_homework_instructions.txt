@@ -1,0 +1,23 @@
+Hi Everyone, 
+
+This is a lengthy email, so please read it thoroughly.  I am following up on last week's class in which we discussed two data analytic issues: missing data and the use of regression modeling when the outcome (or dependent) variable does not meet the assumption of a normal (Gaussian) distribution. 
+
+As you may recall, this was the issue with the distribution of the cigarettes smoked per day measure in the Framingham Study data set. (See the lecture slides in the class Dropbox folder for a slide that depicts those data, and the attached graphic for a representative example of various Poisson distributions.)
+
+This week's assignment (HW#4) is to re-run the abbreviated Framingham data (see the HW#2 assignment and data set).  For HW #4, use a Poisson regression model to appropriately model the outcome variable (CigsPerDay), which is a count variable with many zeros (~51% of the sample).
+
+Poisson regression is better suited than standard OLS regression models for modeling count variables.  This is also the case when we encounter a binary (e.g., a 0/1 outcome) dependent variable, such as when we are using regression models to classify objects or people—-think of when we make a diagnostic classification in medical situations.
+
+The parameters in the Poisson model, like in Logistic Regression models, are arguably more interpretable (multiplicative effects on the expected count), and the model respects the non-negative, discrete nature of the outcome variable..
+
+The dataset for this assignment is the abridged version of the Framingham Heart Study data (see my earlier email dated 2/22/26). 
+
+Like the last time, the analytic assignment is to estimate and fit a series of simple (single predictor) Poisson regression models, i.e., modeling the number of cigarettes smoked per day for males and females,  modeling the same dependent variable separately for age, education and BMI—all as simple regression models. 
+
+Once you have computed the Poisson regression analysis for all four simple models, then create a table that displays the amount of variation in the number of cigarettes smoked per day (the R2 ) of the participants in the sample for each of the four models, and interpret the comparative power of each model for predicting smoking behavior.  You may find including a correlation matrix of the 5 variables in this study will help with your understanding of the differences among and between the models you fit to the data. 
+
+Background readings to help with this assignment include the attached Notes on the Poisson model , the Logistic Regression lecture slides, as well as the Logistic Regression articles in the Dropbox "Readings" folder.  Also, there is a comprehensive treatment of advanced forms of Regression modeling in the e-book by Prof. James Frost in the class DropBox folder (see p. 300-330).   
+
+I will review the Logistic Regression models in our next class on Thursday 3/26/26. 
+
+Please do your best to submit this assignment before next week's class.  If you have any questions or concerns about this assignment, or the attachments included in this email, please contact me via txt or email. 
