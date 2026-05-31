@@ -1,0 +1,15 @@
+Re: Spring Break Reading Assignments & Background Papers
+
+Hi Everyone,
+
+I'm following up after yesterday's class where we discussed both Logistic Regression modeling of the propensity of having a stroke using the World Health Organization dataset.  At the end of yesterday's class, I mentioned a number of background readings to review over the Spring Break.  Here are the specifics:
+
+I added the recording of yesterday's lecture for your review
+the presentation slides summarizing the results of the logistic regression modeling of the WHO stroke prediction models
+the presentation slides introducing Bayesian statistical estimation methods
+I added a PDF copy of the book Introduction to Machine Learning with Python to the Dropbox folder (read chapters 1 & 2)
+Review Chapters 1 & 2 of the PDF of the Elements of Statistical Learning by Hastie, Tibshirani & Friedman in the Dropbox Readings folder, 
+
+If you have any questions about these readings, please let me know. 
+
+ENJOY THE SPRING BREAK! 

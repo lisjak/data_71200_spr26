@@ -1,0 +1,21 @@
+Subject: Apologies & HW#5 Assignment:  Logistic Regression Modeling
+
+Hi Everyone,
+
+Midway through yesterday afternoon's class, which focused on hierarchical and logistic regression modeling methods, I realized I mistakenly indicated in my email of March 10th I would be covering logistic regression next week (3/26/26).  I meant to say I would be covering the topic today, and next week I will be introducing the topic of Bayesian statistical methods. My apologies for the confusion--particularly to those who missed today's class. 
+
+To help you catch-up (or review) I posted the following files in the class Dropbox folder:
+
+the Hierarchical Regression Lecture slides
+the Logistic Regression Lecture slides
+Three background readings on logistic regression
+Logistic Regression a Brief Primer
+Odds Ratios in Logistic Regression
+Logits in Logistic Regression 
+Recording of Thursday's (3/19/26) Logistic Regression lecture
+
+In preparation for next week's class, please read the papers and lecture slides on Bayesian statistics in the class Dropbox Readings folder.
+
+The assignment for HW#5 challenges you to test a series of Logistic Regression models attempting to predict the risk (i.e., the probability) of the average patient experiencing a stroke.  The dataset and codebook for this assignment are attached to this email. As you will see, this is a new and unique data set containing 10 independent variables and one dependent or outcome variable (a binary yes/no indicator) indicating if the patient has experienced a stroke.  The N of patients is 5,110. A number of the variables in the dataset are categorical (some binary, others ordinal), and others are continuous, interval variables.  Note, too, some of the variables have a degree of missing data.
+
+The challenge is to develop and test at least three different prediction models using a logistic regression modeling approach.  Once you have developed those models, estimate the parameters associated with each of the predictor variables and the pseudo R2.  Be sure to identify the best-fitting model and include your interpretations of all the results.

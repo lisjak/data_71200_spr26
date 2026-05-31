@@ -1,0 +1,14 @@
+Re: Final Exam for DATA 71200 Spring 2026 Semester
+
+Hi Everyone,
+
+Attached is the take-home final exam for our course, DATA71200.  As you will see, the exam is comprised of six (6) statistical problems with links to accompanying datasets.  To complete the exam, choose any four (4) problem sets and address the questions posed by each one.  Each problem is worth 25 points (for a total exam score of 100 points).  Each problem has three parts that move from conceptual to applied, reflecting your stated goal of developing statistical thinking rather than rote procedure. The point allocations weight analytic and interpretive work over computation alone.
+
+Please indicate the question numbers of your responses and submit them in one extended MSWord file and include screenshots of your code and any other relevant information.  Show all your work in one inclusive file and attach it to an email to me (HEverson@gc.cuny.edu) using the subject line:  DATA71200 Spring ’26 Final Exam.  Please submit your final exam no later than 26 May 2026.
+If you have any questions about the take-home exam, please let me know.   I am looking forward to seeing you in class later this week. 
+
+Final Exam: Codebook For Ames Housing Data
+
+Hi Everyone,
+
+Attached you will find the codebook with the variable labels and related information useful for understanding how to work with the Ames Housing datafile.  If you have any questions about using this document, please let me know. 

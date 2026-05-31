@@ -1,0 +1,9 @@
+Hi Everyone,
+
+This assignment asks you to try your hand at developing and fitting a supervised machine learning model where the outcome variable of interest is the student's final MathGrade—an ordinal categorical variable that ranges from a low of 1 to a high of 4.  This final math achievement grade was calculated as the sum of variables G1, G2 and G3 and then converted into 4 bins. (Note: there is a significant degree of multicollinearity among the G1, G2, G3 and MathGrade in this dataset.)
+
+Following the guidance presented in last week's class (see the lecture slides in the Dropbox) and the chapters on Supervised Learning (Chap. 3) and Model Evaluation and Improvement (Chap. 5) in the Muller and Guido text, develop, fit and cross-validate an ML model that classifies the students into one of the four MathGrade classes. 
+
+Given the delay on my end in getting this assignment to you, please submit your ML analysis and summary report by May 12th.  
+
+As always, if you have any questions about this assignment, please let me know.   I look forward to seeing you in class on Thursday (5/7/26). 

@@ -1,0 +1,7 @@
+Re: Notes on Background Readings
+
+Below are a few notes from yesterday's lecture on Machine Learning and pointers to the background readings in preparation for our next class meeting on Tuesday, 4/21/126. 
+
+We will be discussing supervised learning approaches to Machine Learning on Tuesday and the background readings include: (1) chapter 2 in the Muller & Guido book; and (2) chapter 2 in the Elements of Learning book (see the PDF in the Dropbox folder). 
+
+Some of you asked about a reference to the mathematics & statistics behind machine learning and other forms of A.I.   The best reference I have found on this topic is the book "Why Machines Learn:  The Elegant Math Behind Modern AI" by Anil Ananthaswamy, published in 2024 and available on Amazon books.  
